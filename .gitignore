@@ -1,0 +1,10 @@
+target/
+bin/
+.classpath
+.project
+.settings/
+.idea/
+*.log
+*.tmp
+.DS_Store
+node_modules/
